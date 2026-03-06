@@ -13,4 +13,4 @@ Steps:
 
 # host static files of react UI on the server
 
-#
+# adding new badging system for file otimization
